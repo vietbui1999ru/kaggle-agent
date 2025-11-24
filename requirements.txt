@@ -167,3 +167,5 @@ pyrefly>=0.43.1
 jupyterlab-vim
 jupyterlab==4.2.4
 jupyter
+ipykernel
+jupyter-server
